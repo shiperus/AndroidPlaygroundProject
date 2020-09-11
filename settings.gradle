@@ -1,0 +1,2 @@
+include ':dagger_hilt_example'
+rootProject.name = "AndroidPlaygroundProject"
