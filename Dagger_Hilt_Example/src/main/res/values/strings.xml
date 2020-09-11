@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dagger Hilt Example</string>
+    <string name="label_username">Username</string>
+    <string name="label_login">Login</string>
+</resources>
